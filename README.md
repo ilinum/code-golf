@@ -8,7 +8,6 @@ pass in integers as command line arguments.
 ##Implemented
 * [Selection Sort](http://en.wikipedia.org/wiki/Selection_sort): 69 characters
 * [Bogosort](http://en.wikipedia.org/wiki/Bogosort): 102 characters
-<i>(Interesting analysys [here](http://www.dangermouse.net/esoteric/bogobogosort.html))</i>
 
 ##Languages used
 * [Haskell](https://haskell.org)
