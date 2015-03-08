@@ -1,0 +1,1 @@
+use std::*;fn main() {let (i, o) = sync::mpsc::channel();let mut j = 0;for a in env::args().skip(1){let b = a.parse().unwrap();let m = i.clone();thread::spawn(move||{old_io::timer::sleep(time::duration::Duration::seconds(b));m.send(b);});j += 1}for _ in 0..j {println!("{}", o.recv().unwrap())}}
