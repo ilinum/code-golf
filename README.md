@@ -9,8 +9,10 @@ pass in integers as command line arguments.
 * [Selection Sort](http://en.wikipedia.org/wiki/Selection_sort): 69 characters
 * [Bogosort](http://en.wikipedia.org/wiki/Bogosort): 102 characters
 * [Sleepsort](http://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort) 226 characters
+* [Stoogesort](https://en.wikipedia.org/wiki/Stooge_sort) 251 character
 
 ##Languages used
 * [Haskell](https://haskell.org)
 * [Python](https://python.org)
 * [Rust](http://www.rust-lang.org)
+* [Kotlin](https://kotlinlang.org)
