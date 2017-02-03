@@ -1,6 +1,5 @@
-import sys
-from random import shuffle
+import sys,random
 a=map(int,sys.argv[1:])
 while(sorted(a)!=a):
-	shuffle(a)
+ random.shuffle(a)
 print a

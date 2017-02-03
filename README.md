@@ -7,7 +7,7 @@ pass in integers as command line arguments.
 
 ##Implemented
 * [Selection Sort](http://en.wikipedia.org/wiki/Selection_sort): 69 characters
-* [Bogosort](http://en.wikipedia.org/wiki/Bogosort): 102 characters
+* [Bogosort](http://en.wikipedia.org/wiki/Bogosort): 90 characters
 * [Sleepsort](http://rosettacode.org/wiki/Sorting_algorithms/Sleep_sort) 226 characters
 * [Stoogesort](https://en.wikipedia.org/wiki/Stooge_sort) 251 character
 
